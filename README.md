@@ -183,5 +183,3 @@ Here are example requests for testing the provided APIs. You can use tools like 
 
 This project is licensed under the CODINGNINJA License - see the [LICENSE](LICENSE) file for details.
 ```
-
-I added the sections for adding and deleting comments with corresponding API URLs. Also, I changed the license badge and description according to your request.
