@@ -3,7 +3,7 @@ Certainly! Here's the updated README with the requested changes:
 ```markdown
 # Social Media Rest API
 
-[![License](https://img.shields.io/badge/license-CODINGNINJA-blue.svg)](https://codingninjas.com/license)
+[![License](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcampus.codingninjas.com%2F&psig=AOvVaw1GXsJmTimmn7BnuMRxm_q1&ust=1704986126181000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj6kraO04MDFQAAAAAdAAAAABAD)](https://www.codingninjas.com/)
 
 ## Description
 
