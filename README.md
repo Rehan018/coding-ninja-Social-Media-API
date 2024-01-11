@@ -1,4 +1,3 @@
-Certainly! Here's the updated README with the requested changes:
 
 ```markdown
 # Social Media Rest API
