@@ -4,7 +4,7 @@ Description
 
 This repository contains a RESTful API for a social media application. The API provides endpoints for user authentication, user management, and post management. It is built using Node.js, Express.js, MongoDB (or any preferred database), bcrypt for password hashing, JSON Web Tokens (JWT) for authentication, and Multer for file uploads.
 
-## Features
+Features
 
 - **User Management:**
   - User Registration and Login
