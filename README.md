@@ -1,29 +1,28 @@
-
-```markdown
-# Social Media Rest API
-
-[![License](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcampus.codingninjas.com%2F&psig=AOvVaw1GXsJmTimmn7BnuMRxm_q1&ust=1704986126181000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj6kraO04MDFQAAAAAdAAAAABAD)](https://www.codingninjas.com/)
+# Social Media REST API Documentation
 
 ## Description
 
-This is a RESTful API for a social media application. It provides endpoints for user authentication, user management, and post management.
+This repository contains a RESTful API for a social media application. The API provides endpoints for user authentication, user management, and post management. It is built using Node.js, Express.js, MongoDB (or any preferred database), bcrypt for password hashing, JSON Web Tokens (JWT) for authentication, and Multer for file uploads.
 
 ## Features
 
-- User Registration and Login
-- User Profile Management
-- Post Creation, Update, and Deletion
-- Like and Dislike Posts
-- Follow and Unfollow Users
-- File Upload for Post Media
-- Comment on Posts
-- Delete Comments on Posts
+- **User Management:**
+  - User Registration and Login
+  - User Profile Management
+  - Follow and Unfollow Users
+
+- **Post Management:**
+  - Post Creation, Update, and Deletion
+  - Like and Dislike Posts
+  - File Upload for Post Media
+  - Comment on Posts
+  - Delete Comments on Posts
 
 ## Technologies Used
 
 - Node.js
 - Express.js
-- MongoDB (or your database of choice)
+- MongoDB (or your preferred database)
 - bcrypt for password hashing
 - JSON Web Tokens (JWT) for authentication
 - Multer for file uploads
@@ -43,7 +42,7 @@ This is a RESTful API for a social media application. It provides endpoints for 
 
 ## Testing APIs
 
-Here are example requests for testing the provided APIs. You can use tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/) to make these requests.
+You can use tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/) to test the provided APIs. Here are example requests for each API:
 
 ### 1. Authentication APIs (`auth.route.js`):
 
@@ -181,4 +180,3 @@ Here are example requests for testing the provided APIs. You can use tools like 
 ## License
 
 This project is licensed under the CODINGNINJA License - see the [LICENSE](LICENSE) file for details.
-```
