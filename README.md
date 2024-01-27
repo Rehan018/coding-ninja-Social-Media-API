@@ -1,10 +1,10 @@
-#Social Media REST API Documentation
+# Social Media REST API Documentation
 
-Description
+## Description
 
 This repository contains a RESTful API for a social media application. The API provides endpoints for user authentication, user management, and post management. It is built using Node.js, Express.js, MongoDB (or any preferred database), bcrypt for password hashing, JSON Web Tokens (JWT) for authentication, and Multer for file uploads.
 
-Features
+## Features
 
 - **User Management:**
   - User Registration and Login
@@ -180,3 +180,5 @@ You can use tools like [Postman](https://www.postman.com/) or [curl](https://cur
 ## License
 
 This project is licensed under the CODINGNINJA License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to use, modify, and contribute to this social media REST API! If you have any questions or issues, please refer to the [GitHub repository](https://github.com/your-username/social-media-api).
